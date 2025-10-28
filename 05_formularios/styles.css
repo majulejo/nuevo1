@@ -1,0 +1,25 @@
+body{
+    background-color: #bbfcfc;
+    margin: 80px;
+}
+h1{
+    color:#2c2e2e;
+    text-align: center;
+    width: auto;
+    text-transform: uppercase;
+}
+form{
+    color:#404242;
+    font-size: 12px;
+    font-family: sans-serif;
+    background-color:#ace8e8;
+    border: 2px solid #95cccc;
+    border-radius: 6px;
+    box-shadow: 0 0 15px #658a8a;
+    margin:auto;
+    width: 300px;
+    height: 250px;
+    text-transform: none;
+    padding: 30px 20px   ;
+
+}
